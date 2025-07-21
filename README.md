@@ -15,7 +15,7 @@ It tracks the price of a product from **Amazon India** and visualizes the price 
 ---
 
 ## 🧩 Tech Stack
-- Python 3.x  
+- Python 
 - Selenium (Web Scraping)  
 - Pandas (Data Handling)  
 - Plotly (Visualization)  
@@ -116,8 +116,6 @@ fig.show()
 
 ---
 
-## 📄 License
-MIT License
 
 ## 👤 Author
-- [Your Name]
+- [Gaurav Kumar]
