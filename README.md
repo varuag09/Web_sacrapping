@@ -101,7 +101,7 @@ fig = px.line(df, x="Date", y="Clean_Price", markers=True,
 fig.update_layout(xaxis_tickangle=45, xaxis_showgrid=True, yaxis_showgrid=True)
 fig.show()
 ```
-![Price Tracker](https://github.com/varuag09/E-commerce_sales_analysis/blob/main/Monthly_sales_analysis.png)
+![Price Tracker](https://github.com/varuag09/Web_sacrapping/blob/main/Price_tracker.png)
 ---
 
 ## 🚀 How to Use
